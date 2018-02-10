@@ -1,0 +1,18 @@
+{
+    "prepare_queue": {
+        "installed": [],
+        "uninstalled": []
+    },
+    "config_munge": {
+        "files": {}
+    },
+    "installed_plugins": {
+        "cordova-plugin-device-orientation": {
+            "PACKAGE_NAME": "pl.ideaspot.orientationTest"
+        },
+        "cordova-plugin-whitelist": {
+            "PACKAGE_NAME": "pl.ideaspot.orientationTest"
+        }
+    },
+    "dependent_plugins": {}
+}
